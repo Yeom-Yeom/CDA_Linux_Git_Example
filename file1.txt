@@ -1,0 +1,1 @@
+file1.txt: "Updated content in file1."
